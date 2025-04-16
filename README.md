@@ -1,2 +1,2 @@
 # Masala_chai
-Telegram-bot
+Telegram-bot для поиска рецептов бдюд
